@@ -1,4 +1,4 @@
-# Two-Villages-JavaFX-Drawing-Assignment
+# Two Villages JavaFX Drawing Assignment
 
 This is a JavaFX drawing program that creates two villages, each with three houses. The houses are randomly sized and positioned, and each house contains one window and a door. The program also includes a king's house.
 
